@@ -8,6 +8,8 @@
 
 ## 平台预览
 
+**平台地址**：[https://qifuw.itcox.cn](https://qifuw.itcox.cn)
+
 **用户端（移动端 H5）**
 
 <table>
