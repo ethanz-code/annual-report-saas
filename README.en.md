@@ -39,16 +39,17 @@ This repository is for showcasing the enterprise service platform only — it co
 
 ## What We Offer
 
+<table>
+  <tr>
+    <td width="34%" align="center" valign="middle">
+      <img src="./docs/wecom-qr.png" width="180" alt="WeCom QR code" />
+    </td>
+    <td width="66%" valign="top">
+
 - **Custom development**: Tailored feature modules, UI, and business workflows built around your real business needs.
 - **System integration**: Seamless integration with your existing systems (OA, ERP, finance, etc.).
 - **Ongoing maintenance**: Long-term technical support, upgrades, and incident response to keep your platform stable.
 
-## Contact Us
-
-Open to enterprise partnership and custom project inquiries
-
-Scan the QR code to add us on WeCom and get a custom proposal:
-
-<p>
-  <img src="./docs/wecom-qr.png" width="200" alt="WeCom QR code" />
-</p>
+    </td>
+  </tr>
+</table>

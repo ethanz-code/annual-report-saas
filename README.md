@@ -39,14 +39,17 @@
 
 ## 我们能做什么
 
+<table>
+  <tr>
+    <td width="34%" align="center" valign="middle">
+      <img src="./docs/wecom-qr.png" width="180" alt="企业微信二维码" />
+    </td>
+    <td width="66%" valign="top">
+
 - **专属定制开发**：根据企业实际业务需求，深度定制功能模块、界面风格与业务流程。
 - **系统集成与对接**：支持与企业现有系统（OA、ERP、财务等）无缝集成。
 - **持续技术维护**：长期技术支持、系统升级、故障响应，保障平台稳定运行。
 
-## 联系我们
-
-扫码添加企业微信，获取专属定制方案：
-
-<p>
-  <img src="./docs/wecom-qr.png" width="200" alt="企业微信二维码" />
-</p>
+    </td>
+  </tr>
+</table>
