@@ -23,8 +23,11 @@ This repository is for showcasing the enterprise service platform only — it co
 
 <table>
   <tr>
-    <td width="50%"><img src="./docs/image-3.png" alt="Overview dashboard" /></td>
-    <td width="50%"><img src="./docs/image-4.png" alt="Company management" /></td>
+    <td width="50%">
+      <img src="./docs/admin-dashboard.png" alt="Overview dashboard" width="100%" />
+      <img src="./docs/admin-companies.png" alt="Company management" width="100%" />
+    </td>
+    <td width="50%" valign="middle"><img src="./docs/admin-visits.png" alt="Visit analytics" width="100%" /></td>
   </tr>
 </table>
 
@@ -33,6 +36,7 @@ This repository is for showcasing the enterprise service platform only — it co
 - **Per-company short-link pages**: One shareable short link per company, server-side rendered for SEO, with company-specific info, compliance tips, and pricing.
 - **Online payments**: Full WeChat Pay coverage (in-app, mobile browser, desktop QR), with callback signature verification plus polling for reliable order tracking.
 - **Admin dashboard**: Company profiles, per-company pricing, order management, and site content/SEO settings — ready out of the box.
+- **Visit analytics**: Built-in visitor insights (PV/UV trends, traffic sources, popular pages, device/browser breakdown) to see what your marketing delivers.
 - **Bulk operations**: Excel-template bulk import and batch pricing, built for high-volume filing services.
 
 > Decoupled frontend/backend architecture (Nuxt SSR + Vue 3 + Elysia), Docker-ready for one-command deployment, customizable and self-hosted on request.

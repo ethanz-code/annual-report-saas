@@ -23,8 +23,11 @@
 
 <table>
   <tr>
-    <td width="50%"><img src="./docs/image-3.png" alt="数据概览" /></td>
-    <td width="50%"><img src="./docs/image-4.png" alt="企业管理" /></td>
+    <td width="50%">
+      <img src="./docs/admin-dashboard.png" alt="数据概览" width="100%" />
+      <img src="./docs/admin-companies.png" alt="企业管理" width="100%" />
+    </td>
+    <td width="50%" valign="middle"><img src="./docs/admin-visits.png" alt="访问统计" width="100%" /></td>
   </tr>
 </table>
 
@@ -33,6 +36,7 @@
 - **企业专属短链页**：每个企业一个短链页面，SSR 服务端渲染，利于搜索引擎收录；企业信息、经营提示、专属价格按企业个性化展示。
 - **在线支付**：微信支付全场景支持（微信内、手机浏览器、电脑端扫码），回调验签 + 轮询双保险，订单自动落库。
 - **管理后台**：企业档案、单独定价、订单列表、站点内容与 SEO 设置，开箱即用。
+- **访问统计**：内置访客分析（PV/UV 趋势、来源与页面热度、设备与浏览器分布），推广效果一目了然。
 - **批量运营**：Excel 模板批量导入企业、批量定价，适配批量代报业务。
 
 > 前后端分离架构（Nuxt SSR + Vue 3 + Elysia），支持 Docker 一键部署，可按需定制与私有化交付。
