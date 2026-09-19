@@ -10,6 +10,11 @@ This repository is for showcasing the enterprise service platform only — it co
 
 **Live site**: [https://qifuw.itcox.cn](https://qifuw.itcox.cn)
 
+**Admin console live preview**: [https://qifuw.itcox.cn/admin/](https://qifuw.itcox.cn/admin/)
+
+> [!TIP]
+> Preview mode: mock data, read-only. Opens directly with auto sign-in — no account needed.
+
 **User-facing web (mobile H5)**
 
 <table>

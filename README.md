@@ -10,6 +10,11 @@
 
 **平台地址**：[https://qifuw.itcox.cn](https://qifuw.itcox.cn)
 
+**管理后台在线预览**：[https://qifuw.itcox.cn/admin/](https://qifuw.itcox.cn/admin/)
+
+> [!TIP]
+> 预览模式：数据均为模拟数据，仅供查看；打开即自动进入，无需注册登录。
+
 **用户端（移动端 H5）**
 
 <table>
