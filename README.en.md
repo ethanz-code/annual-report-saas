@@ -14,8 +14,8 @@ This repository is for showcasing the enterprise service platform only — it co
 
 <table>
   <tr>
-    <td width="50%"><img src="./docs/image-1.png" alt="Landing page" /></td>
-    <td width="50%"><img src="./docs/image-2.png" alt="Per-company short-link page" /></td>
+    <td width="50%"><img src="./docs/image-1.png" alt="Per-company short-link page" /></td>
+    <td width="50%"><img src="./docs/image-2.png" alt="Payment success dialog" /></td>
   </tr>
 </table>
 
@@ -50,9 +50,11 @@ This repository is for showcasing the enterprise service platform only — it co
     </td>
     <td width="66%" valign="top">
 
-- **Custom development**: Tailored feature modules, UI, and business workflows built around your real business needs.
-- **System integration**: Seamless integration with your existing systems (OA, ERP, finance, etc.).
+- **Custom development**: Tailored feature modules, UI, and business workflows built around your real business needs, delivering a platform truly your own.
+- **System integration**: Seamless integration with your existing systems (OA, ERP, finance, etc.) for smoother information flow.
 - **Ongoing maintenance**: Long-term technical support, upgrades, and incident response to keep your platform stable.
+- **Compliance & security**: Strict adherence to data security and compliance requirements for worry-free operations.
+- **Dedicated consultants**: A dedicated project manager and development team engaged end to end for efficient delivery.
 
     </td>
   </tr>
